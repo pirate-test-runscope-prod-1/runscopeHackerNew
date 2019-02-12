@@ -595,11 +595,11 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: meirav Feiler (R5UR96K8QJ)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COMPRESS_PNG_FILES = YES;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = HackerNews/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = meirav.me.amitburst.HackerNewsiOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "HackerNews/HackerNews-Bridging-Header.h";
@@ -617,11 +617,11 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer: meirav Feiler (R5UR96K8QJ)";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COMPRESS_PNG_FILES = YES;
-				DEVELOPMENT_TEAM = 5Z97G9NZQ6;
+				DEVELOPMENT_TEAM = 285W24646W;
 				INFOPLIST_FILE = HackerNews/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.1;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = meirav.me.amitburst.HackerNewsiOS;
+				PRODUCT_BUNDLE_IDENTIFIER = com.microsoft.runscope.all;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "HackerNews/HackerNews-Bridging-Header.h";
